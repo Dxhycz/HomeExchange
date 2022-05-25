@@ -63,11 +63,10 @@
         <p>description</p>
         <input type="text" placeholder="description" name="description"/>
         <br/>
-        <input type="submit" value="submit" />
+        <input type="submit" value="submit application" />
     </form>
 </div>
 
-<a href="Mail.jsp">Submit application</a>
 <a href="index.jsp">Quit applying</a>
 <div class="footer">
     <p>Home Exchange</p>
